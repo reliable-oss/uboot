@@ -1,0 +1,9 @@
+This repo is based off Xilinx's u-boot repository:
+
+https://github.com/Xilinx/u-boot-xlnx
+https://github.com/Xilinx/u-boot-xlnx.git
+3b81afa0483360286905c319bad06611ac9c0864
+
+Which forked from Das U-Boot:
+https://source.denx.de/u-boot/u-boot
+https://source.denx.de/u-boot/u-boot.git
