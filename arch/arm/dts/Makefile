@@ -306,6 +306,7 @@ dtb-$(CONFIG_ARCH_ZYNQ) += \
 	zynq-microzed.dtb \
 	zynq-minized.dtb \
 	zynq-picozed.dtb \
+	zynq-rr-tc.dtb \
 	zynq-syzygy-hub.dtb \
 	zynq-topic-miami.dtb \
 	zynq-topic-miamilite.dtb \
